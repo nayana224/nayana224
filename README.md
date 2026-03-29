@@ -25,3 +25,5 @@ I am an undergraduate student majoring in **Mechatronics and Intelligent Robotic
 
 ---
 [![Inpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=[nayana224]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-summary-card-output/radical/0-profile-details.svg)
+![](./profile-summary-card-output/radical/2-most-commit-language.svg)

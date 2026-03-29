@@ -26,8 +26,11 @@ I am an undergraduate student majoring in **Mechatronics and Intelligent Robotic
 ---
 ### 📊 My GitHub Professional Stats
 
-[![Inpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayana224&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+### 📊 My GitHub Professional Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayana224&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Inpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayana224&show_icons=true&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayana224&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayana224&theme=radical)](https://git.io/streak-stats)

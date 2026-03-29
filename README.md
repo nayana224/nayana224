@@ -24,6 +24,11 @@ I am an undergraduate student majoring in **Mechatronics and Intelligent Robotic
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![OnShape](https://img.shields.io/badge/OnShape-24292e?style=flat-square&logo=onshape&logoColor=white) |
 
 ---
-[![Inpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=[nayana224]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](./profile-summary-card-output/radical/0-profile-details.svg)
-![](./profile-summary-card-output/radical/2-most-commit-language.svg)
+### 📊 My GitHub Stats
+[![Inpyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayana224&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🗂️ Language Summary
+<p align="center">
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="400" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="400" />
+</p>

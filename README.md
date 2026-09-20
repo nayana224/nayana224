@@ -1,29 +1,58 @@
-# 👋 Hi, I'm Inpyo
+# Hi, I'm Inpyo Lee
 
-**Master's Student in Robotics and AI**
+**Robotics & AI Research Intern**  
+Mechatronics Engineering · Intelligent Robotics · ROS 2 · Manipulation · Robot Learning
 
-I have hands-on experience developing ROS 2-based robotic systems, including autonomous mobile robots and robotic manipulators.
+I have hands-on experience building ROS 2-based robotic systems, including autonomous mobile robots and robotic manipulators.
 
-My work focuses on integrating hardware, perception, planning, and control. I am currently exploring robot learning, robotic manipulation, and Vision-Language-Action models.
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **Education:** M.S. Student in AI Engineering
-- 🔬 **Research Interests:** Robot Learning, Vision-Language-Action, Robotic Manipulation
-- 📍 **Location:** Seoul, South Korea
-- 📧 **Email:** [inpyoi1304@gmail.com](mailto:inpyoi1304@gmail.com)
-- 📝 **Blog:** [velog.io/@tickets_for_2](https://velog.io/@tickets_for_2/posts)
+My work has focused on integrating perception, planning, control, and hardware into complete robot systems. I am currently strengthening my deep learning foundations and expanding toward robot learning and multimodal approaches for robotics.
 
 ---
 
-### 🛠 Tech Stack
+## Current Focus
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-F0AD4E?style=flat-square) |
-| **AI & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Robotics** | ![ROS2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![MoveIt2](https://img.shields.io/badge/MoveIt%202-263238?style=flat-square) ![Nav2](https://img.shields.io/badge/Nav2-005A9C?style=flat-square) ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white) |
-| **Embedded & Hardware** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![FPGA / Vivado](https://img.shields.io/badge/FPGA%20%2F%20Vivado-FF6600?style=flat-square&logo=amd&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) |
+- **Robotic Manipulation**
+- **Robot Learning**
+- **Multimodal Learning for Robotics**
+
+---
+
+## Selected Public Repositories
+
+- [**pytorch-deep-learning-practice**](https://github.com/nayana224/pytorch-deep-learning-practice)  
+  Paper-oriented deep learning practice and implementation notes.
+
+- [**slambot_tutorial**](https://github.com/nayana224/slambot_tutorial)  
+  ROS 2 SLAM and Nav2 practice for autonomous mobile robotics.
+
+- [**LidarLegDetector_ws**](https://github.com/nayana224/LidarLegDetector_ws)  
+  LiDAR-based human leg detection experiments.
+
+- [**wt901c_imu_driver**](https://github.com/nayana224/wt901c_imu_driver)  
+  ROS 2 driver for the WT901C IMU sensor.
+
+---
+
+## Notes & Research Feed
+
+I maintain a personal site for technical notes and source-backed AI/robotics updates.
+
+- [**Personal Site**](https://nayana224.github.io/)
+- [**Notes**](https://nayana224.github.io/notes/) — Papers · Concepts & Theory · Implementations
+- [**Research Feed**](https://nayana224.github.io/research-feed/) — AI · Robotics · Research updates
+
+---
+
+## Tech
+
+**Robotics**  
+ROS 2 · MoveIt 2 · Nav2 · Isaac Sim
+
+**Programming**  
+Python · C++ · C · Verilog
+
+**AI / Vision**  
+PyTorch · OpenCV
+
+**Tools**  
+Git · Docker · Ubuntu

@@ -1,42 +1,63 @@
 # Hi, I'm Inpyo Lee
 
-**Robotics & AI Research Intern**  
-Mechatronics Engineering · Intelligent Robotics · ROS 2 · Manipulation · Robot Learning
+**Robotics & AI Research Intern**
 
-I have hands-on experience building ROS 2-based robotic systems, including autonomous mobile robots and robotic manipulators.
+Mechatronics Engineering · Intelligent Robotics  
+Robot Learning · Robotic Manipulation · Multimodal AI
 
-My work has focused on integrating perception, planning, control, and hardware into complete robot systems. I am currently strengthening my deep learning foundations and expanding toward robot learning and multimodal approaches for robotics.
+I build robotic systems that connect **perception, planning, control, and hardware**, with hands-on experience in ROS 2-based autonomous mobile robots and manipulators.
+
+Currently, I am studying deep learning from its foundations while moving toward **VLM/VLA, Robot Learning, and Embodied AI** — especially systems that can perceive, reason, act, and improve through feedback.
 
 ---
 
-## Current Focus
+## Research Interests
 
-- **Robotic Manipulation**
-- **Robot Learning**
-- **Multimodal Learning for Robotics**
+- **Robot Learning & Embodied AI**
+- **Vision-Language Models (VLM) / Vision-Language-Action (VLA)**
+- **Robotic Manipulation & Grasping**
+- **Vision-Language Grounding**
+- **Closed-loop Perception & Action**
+- **Autonomous / Agentic Robot Systems**
+
+### Currently Exploring
+
+- Closed-loop manipulation with visual feedback, recovery, and re-planning
+- VLM/VLA for perception-to-action robotic systems
+- Agent architectures for autonomous laboratory workflows
+- Efficient AI inference and deployment on edge robot hardware
+
+---
+
+## Research Path
+
+Robotics Systems → Deep Learning Foundations → Transformer / Vision Models → VLM & Multimodal Learning → VLA / Robot Learning → Closed-loop Embodied Intelligence
+
+My background in firmware, control, ROS 2, navigation, and manipulation gives me a systems perspective as I move deeper into learning-based robotics.
+
+---
+
+## Engineering Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Robotics** | ROS 2 · MoveIt 2 · Nav2 · Isaac Sim |
+| **AI / Vision** | PyTorch · OpenCV |
+| **Programming** | Python · C++ · C · Verilog |
+| **Development** | Git · Docker · Ubuntu |
+| **Hardware / Systems** | MCU · FPGA · Jetson |
 
 ---
 
 ## Notes & Research Feed
 
-I maintain a personal site for technical notes and source-backed AI/robotics updates.
+I document what I learn and track source-backed developments in AI and robotics on my personal research site.
 
-- [**Personal Site**](https://nayana224.github.io/)
-- [**Notes**](https://nayana224.github.io/notes/) — Papers · Concepts & Theory · Implementations
-- [**Research Feed**](https://nayana224.github.io/research-feed/) — AI · Robotics · Research updates
+**[Personal Site](https://nayana224.github.io/)** · **[Notes](https://nayana224.github.io/notes/)** · **[Research Feed](https://nayana224.github.io/research-feed/)**
+
+- **Notes** — Papers · Concepts & Theory · Implementations
+- **Research Feed** — AI · Robotics · Research updates
 
 ---
 
-## Tech
-
-**Robotics**  
-ROS 2 · MoveIt 2 · Nav2 · Isaac Sim
-
-**Programming**  
-Python · C++ · C · Verilog
-
-**AI / Vision**  
-PyTorch · OpenCV
-
-**Tools**  
-Git · Docker · Ubuntu
+<sub>Building from robotics systems toward learning-based and embodied intelligence.</sub>

@@ -2,38 +2,29 @@
 
 **Robotics & AI Research Intern**
 
-Mechatronics Engineering · Intelligent Robotics  
-Robot Learning · Robotic Manipulation · Multimodal AI
+Mechatronics Engineering · Intelligent Robotics
 
-I build robotic systems that connect **perception, planning, control, and hardware**, with hands-on experience in ROS 2-based autonomous mobile robots and manipulators.
+I have hands-on experience building ROS 2-based robotic systems, including autonomous mobile robots and robotic manipulators. My work has focused on integrating perception, planning, control, and hardware into complete robot systems.
 
-Currently, I am studying deep learning from its foundations while moving toward **VLM/VLA, Robot Learning, and Embodied AI** — especially systems that can perceive, reason, act, and improve through feedback.
-
----
-
-## Research Interests
-
-- **Robot Learning & Embodied AI**
-- **Vision-Language Models (VLM) / Vision-Language-Action (VLA)**
-- **Robotic Manipulation & Grasping**
-- **Vision-Language Grounding**
-- **Closed-loop Perception & Action**
-- **Autonomous / Agentic Robot Systems**
-
-### Currently Exploring
-
-- Closed-loop manipulation with visual feedback, recovery, and re-planning
-- VLM/VLA for perception-to-action robotic systems
-- Agent architectures for autonomous laboratory workflows
-- Efficient AI inference and deployment on edge robot hardware
+Currently, I am strengthening my deep learning foundations and studying Transformer-based and multimodal approaches, with an interest in applying them to robotics.
 
 ---
 
-## Research Path
+## Robotics Experience
 
-Robotics Systems → Deep Learning Foundations → Transformer / Vision Models → VLM & Multimodal Learning → VLA / Robot Learning → Closed-loop Embodied Intelligence
+- **ROS 2 & Robot System Integration**
+- **Autonomous Navigation**
+- **Robotic Manipulation**
+- **Firmware & Hardware Integration**
 
-My background in firmware, control, ROS 2, navigation, and manipulation gives me a systems perspective as I move deeper into learning-based robotics.
+---
+
+## Current Focus
+
+- **Deep Learning Fundamentals**
+- **Transformer & Vision Models**
+- **Vision-Language Models**
+- **Robot Learning**
 
 ---
 
@@ -57,7 +48,3 @@ I document what I learn and track source-backed developments in AI and robotics 
 
 - **Notes** — Papers · Concepts & Theory · Implementations
 - **Research Feed** — AI · Robotics · Research updates
-
----
-
-<sub>Building from robotics systems toward learning-based and embodied intelligence.</sub>

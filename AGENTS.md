@@ -9,7 +9,11 @@ This repository powers the GitHub profile README for `nayana224`.
 - Preserve working links and GitHub-compatible Markdown.
 - Avoid unrelated changes when editing `README.md`.
 - For profile redesign work, review the current README and relevant external examples before making structural changes.
+- Prefer a research-minimal style over badge walls, stats widgets, trophies, or decorative animations.
+- Use pinned repositories for project discovery instead of duplicating a repository catalog in the README.
+- Center the profile on research direction, current exploration, systems background, and the personal research site.
 
-## Current task
-- 2026-09-30: Removed the `Selected Public Repositories` section from the profile README.
-- Next: evaluate reference profiles and decide the next profile information architecture before implementing a broader redesign.
+## Current state
+- 2026-09-30: Removed the `Selected Public Repositories` section.
+- 2026-09-30: Redesigned README around research identity, interests, current exploration, research path, engineering stack, and Notes/Research Feed.
+- Preserve this research-minimal information architecture unless a future task explicitly changes it.

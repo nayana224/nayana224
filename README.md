@@ -1,30 +1,21 @@
-# Hi, I'm Inpyo Lee
+# Inpyo Lee
 
-**Robotics & AI Research Intern**
+**Robotics & AI Research Intern** at KITECH  
+B.S. in Mechatronics Engineering (Minor in Intelligent Robotics), Tech University of Korea
 
-Mechatronics Engineering · Intelligent Robotics
-
-I have hands-on experience building ROS 2-based robotic systems, including autonomous mobile robots and robotic manipulators. My work has focused on integrating perception, planning, control, and hardware into complete robot systems.
-
-Currently, I am strengthening my deep learning foundations and studying Transformer-based and multimodal approaches, with an interest in applying them to robotics.
+[LinkedIn](https://www.linkedin.com/in/inpyo-lee/) · [Personal Site](https://nayana224.github.io/) · [Notes](https://nayana224.github.io/notes/) · [Research Feed](https://nayana224.github.io/research-feed/)
 
 ---
 
-## Robotics Experience
-
-- **ROS 2 & Robot System Integration**
-- **Autonomous Navigation**
-- **Robotic Manipulation**
-- **Firmware & Hardware Integration**
+I build ROS 2-based robotic systems spanning autonomous mobile robots, robotic manipulators, and hardware/firmware integration. Currently, my research focuses on **Robot Learning**, **Vision-Language Models (VLMs)**, and **Vision-Language-Action (VLA)** models—bridging perception, reasoning, and physical interaction in intelligent robotic systems.
 
 ---
 
-## Current Focus
+## Research & Engineering Focus
 
-- **Deep Learning Fundamentals**
-- **Transformer & Vision Models**
-- **Vision-Language Models**
-- **Robot Learning**
+- **Robot Learning & Multimodal AI** — Vision-Language Models (VLMs), VLA models, and Transformer-based perception/policy learning
+- **Robotics Systems** — ROS 2 system integration, autonomous navigation (Nav2), manipulation (MoveIt 2), and simulation (Isaac Sim)
+- **Embedded & Hardware** — Sensor drivers, firmware integration, and real-time robotic control
 
 ---
 
@@ -42,9 +33,7 @@ Currently, I am strengthening my deep learning foundations and studying Transfor
 
 ## Notes & Research Feed
 
-I document what I learn and track source-backed developments in AI and robotics on my personal research site.
+I document paper reviews, implementations, and source-backed updates in AI and robotics on **[nayana224.github.io](https://nayana224.github.io/)**.
 
-**[Personal Site](https://nayana224.github.io/)** · **[Notes](https://nayana224.github.io/notes/)** · **[Research Feed](https://nayana224.github.io/research-feed/)**
-
-- **Notes** — Papers · Concepts & Theory · Implementations
-- **Research Feed** — AI · Robotics · Research updates
+- **[Notes](https://nayana224.github.io/notes/)** — Papers · Concepts & Theory · Implementations
+- **[Research Feed](https://nayana224.github.io/research-feed/)** — AI · Robotics · Research updates

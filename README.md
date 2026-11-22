@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=200&section=header&text=Inpyo%20Lee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20AI%20Research%20Intern%20%7C%20ROS%202%20%C2%B7%20Robot%20Learning%20%C2%B7%20VLM%20%2F%20VLA&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
+<h1>Inpyo Lee</h1>
+<p><strong>Robotics &amp; AI Research Intern</strong> at KITECH · ROS 2 · Robot Learning · VLM / VLA</p>
 
 <p>
   <a href="https://www.linkedin.com/in/inpyo-lee/">
